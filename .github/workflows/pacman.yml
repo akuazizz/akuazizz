@@ -2,27 +2,28 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # jalan tiap hari jam 00:00 UTC
+    - cron: "0 0 * * *" # tiap hari jam 00:00 UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-pacman:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Generate pacman SVG
+      - name: Generate the pacman contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: akuazizz
           outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
 
-      - name: Commit and push SVG to output branch
+      - name: Push SVG to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
