@@ -49,13 +49,8 @@
 
 ### 🕹️ Play Games with Me (Pacman)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akuazizz/akuazizz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akuazizz/akuazizz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akuazizz/akuazizz/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akuazizz/akuazizz/output/pacman-contribution-graph.svg" />
 
-![Pacman Graph Workflow](https://github.com/akuazizz/akuazizz/actions/workflows/pacman.yml/badge.svg)
 ---
 
 ### 🐍 Snake Eating My Contributions
