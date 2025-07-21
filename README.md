@@ -47,12 +47,6 @@
 
 ---
 
-### 🟡 Pacman Contribution Graph
-
-<img src="https://pacman-contrib.onrender.com/akuazizz" alt="pacman contribution graph" />
-
----
-
 ### 🐍 Snake Eating My Contributions
 
 <img src="https://raw.githubusercontent.com/akuazizz/akuazizz/output/snake.svg" alt="Snake animation" />
