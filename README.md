@@ -47,9 +47,9 @@
 
 ---
 
-### 🕹️ Play Games with Me (Pacman)
+### 🟡 Pacman Contribution Graph
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akuazizz/akuazizz/output/pacman-contribution-graph.svg" />
+<img src="https://pacman-contrib.onrender.com/akuazizz" alt="pacman contribution graph" />
 
 ---
 
