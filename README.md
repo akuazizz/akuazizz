@@ -1,5 +1,3 @@
-## Hi World! I'm Abdul Aziz 👋
-
 ![Abdul Aziz](github-header-image.png)
 
 - 🔭 I’m currently intern on **Kominfo Banjarnegara**
