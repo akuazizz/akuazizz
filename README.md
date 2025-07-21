@@ -2,26 +2,13 @@
 
 ![Abdul Aziz](github-header-image.png)
 
-<!--
-**akuazizz/akuazizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 I’m currently intern on **Kominfo Banjarnegara**
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
 - 😁😁😁
 
-##### Skills
+---
+
+### 🧠 Skills
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -45,15 +32,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-##### Connect With Me
+---
 
-![https://instagram.com/ngabdulazizz](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhammad-abdul-aziz-9bbbab251/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+### 🔗 Connect With Me
 
-##### My Github Stats
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ngabdulazizz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdul-aziz-9bbbab251/)
+
+---
+
+### 📊 My Github Stats
 
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuazizz&show_icons=true&theme=default#gh-light-mode-only)
 
-##### Play Games with Me
+---
+
+### 🕹️ Play Games with Me (Pacman)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akuazizz/akuazizz/output/pacman-contribution-graph-dark.svg">
@@ -61,8 +55,8 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akuazizz/akuazizz/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+### 🐍 Snake Eating My Contributions
 
 <img src="https://raw.githubusercontent.com/akuazizz/akuazizz/output/snake.svg" alt="Snake animation" />
-
-###
